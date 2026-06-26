@@ -1,4 +1,4 @@
 function sub(){
     return a-b
 }
-sub(20,10)
+sub(30,10)
